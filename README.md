@@ -1,122 +1,71 @@
-This repository documents my complete, end-to-end journey toward becoming an actuary. It contains structured learning plans, projects, revision notes, and weekly progress updates designed to demonstrate clear development across technical, analytical, and actuarial domains.
+This repository documents my end-to-end transition from data analyst to actuary.
+It includes actuarial projects, modelling tools, exam preparation notes, and reproducible code in Python, R, and Excel.
 
-Purpose of This Repository
+📘 What’s inside
 
-This repository serves as:
+Actuarial Exam Notes (CS1, CM1, etc.)
+Structured summaries, derivations, practice questions, and formula sheets.
 
-A public record of my actuarial development.
+Pricing Projects
 
-Evidence of consistent skill-building across analytics, modelling, and actuarial science.
+Deterministic life insurance pricing model
 
-A portfolio demonstrating readiness for actuarial analyst roles.
+Sensitivity analysis (mortality, expenses, discount rates)
 
-A hub for projects, notes, and study materials aligned with the IFoA exam pathway.
+Cashflow projections in Excel + Python
 
-Contents
-1. Weekly Progress Logs
+Reserving Projects
 
-Documenting learning, projects, resources used, and reflections.
+Claims triangle analysis
 
-Week-by-week summaries.
+Chain-Ladder & Bornhuetter–Ferguson (R / Python)
 
-What I studied.
+Stochastic bootstrap reserving
 
-What I built.
+Statistical Modelling
 
-What I improved.
+GLM pricing (frequency/severity + pure premium)
 
-What I plan next.
+Validation metrics (AIC, Gini, Lift, RMSE)
 
-2. Actuarial Exam Preparation
+Feature engineering for insurance datasets
 
-Structured notes and summaries aligned to IFoA exams.
+Automation Tools
 
-Financial mathematics fundamentals.
+ETL pipelines (SQL → Python → reporting)
 
-Risk and modelling techniques.
+Automated reserving report generator
 
-CT/CS/CM-style derivations and worked problems.
+Reproducible notebooks & templates
 
-Key formulas and theory summaries.
+🧰 Tech Stack
 
-3. Technical Skills Development
+Languages: Python, R, SQL, VBA
 
-Material to strengthen the transition from data analyst to actuarial analyst.
+Tools: Excel, Power BI, Jupyter, Git
 
-Python notebooks for modelling tasks.
+Actuarial modelling concepts: pricing, reserving, GLMs, cashflow modelling
 
-R scripts for actuarial analysis.
+🎯 Purpose
 
-SQL queries for insurance data processing.
+This repo serves as a transparent, long-term portfolio demonstrating:
 
-Excel and VBA templates for actuarial calculations.
+Actuarial technical skills
 
-Power BI dashboards.
+Statistical modelling capability
 
-4. Actuarial Modelling Projects
+Clear documentation & communication
 
-Practical, portfolio-ready actuarial problems with documentation.
+Consistent professional development
 
-Beginner projects: mortality tables, life table visualisation, simple pricing.
+The link between mathematical theory and real actuarial applications
 
-Intermediate projects: GLM pricing model, claims reserving simulations.
+📌 Goals
 
-Advanced projects: stochastic modelling, stress testing, risk capital modelling.
+Build a complete actuarial learning and project archive
 
-5. Software and Tools
+Showcase progress publicly as I prepare for IFoA exams
 
-Files, guides, and practice materials.
+Provide hiring managers a clear view of my modelling ability
 
-Prophet, Emblem, Radar-style modelling workflows.
-
-Simulation code for Igloo and Tyche equivalents.
-
-Excel actuarial calculators.
-
-6. Learning Plans and Resources
-
-Curated roadmap of study materials.
-
-IFoA exam plans.
-
-Recommended reading lists.
-
-Free and paid courses.
-
-Suggested project sequences.
-
-7. Career Development
-
-Materials for job applications and professional positioning.
-
-CV-ready project summaries.
-
-Notes for LinkedIn posting strategy.
-
-Templates for cold outreach to actuarial teams.
-
-Reflection logs on professional growth.
-
-How to Use This Repository
-
-Start from the weekly logs to follow the chronological journey.
-
-Explore the projects folder to see applied actuarial modelling.
-
-Review notes for a structured understanding of actuarial theory.
-
-Follow the learning roadmap if you want to replicate this progression.
-
-Goals
-
-This repository is designed to demonstrate:
-
-Applied mathematical reasoning.
-
-Technical competence across actuarial and analytics tools.
-
-Understanding of pricing, reserving, and risk modelling.
-
-Professional consistency and growth.
-
-Commitment to the full actuarial qualification pathway.
+Create production-ready actuarial modelling examples
